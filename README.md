@@ -1,4 +1,4 @@
-# 🎯 Kaushal Sankalp (TrapRat 360)
+# 🎯TrapRat
 
 > **Government-Grade Skill Outcome Intelligence & Verification Platform**
 
@@ -15,7 +15,7 @@
 
 ## 📌 Executive Summary
 
-**Kaushal Sankalp** (*TrapRat 360*) is an enterprise-grade Skill Outcome Intelligence and Verification Platform engineered to track, authenticate, and analyze vocational training outcomes, employment claims, and wage progressions across India.
+**TrapRat** is an enterprise-grade Skill Outcome Intelligence and Verification Platform engineered to track, authenticate, and analyze vocational training outcomes, employment claims, and wage progressions across India.
 
 By replacing raw Aadhaar identifiers with anonymized Skill Outcome IDs, integrating an explainable **0-100 Trust Score engine**, deploying a **4-tier signal-first verification ladder**, and enforcing **DPDP Act 2023 consent standards**, Kaushal Sankalp brings transparency, fraud mitigation, and data integrity to large-scale skill development initiatives.
 
